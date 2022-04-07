@@ -1,4 +1,4 @@
-# LQDOJ
+# NBKOJ
 $(document).ready(function(){
   document.title = document.title.replace("DMOJ", "Dank Memes Online Judge");
   $("#page-container").css({background: "#FFFDF0"});
